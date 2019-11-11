@@ -5,7 +5,7 @@ let homepage = `
             <h3>Junior front-end developer | Former Mechanical Engineer</h3>
         <br>
         <p>
-            My name is Anton. Im 27 y.o. and I am a former Mechanical Enjineer.
+            My name is Anton. Im 27 y.o. and I am a former Mechanical Engineer.
             This is simple example of single page app with JavaScript
         </p>
 
