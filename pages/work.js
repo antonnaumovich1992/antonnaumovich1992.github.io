@@ -7,7 +7,7 @@ let work = `
             <div class="work-container-content">
                 <h2 class="work-title">It-academy</h2>
                 <p class="work-desc">
-                Trainee on web application development corse 
+                Trainee on web application development course 
                 </p>
             </div>
         </article>
